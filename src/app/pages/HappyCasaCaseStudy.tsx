@@ -6,9 +6,9 @@ import type { LucideIcon } from "lucide-react";
 import { Footer } from "@/app/components/Footer";
 
 // Import carousel images
-import carouselImg1 from "figma:asset/356536329955ba44021bb6b8f8cf572dc6ff6f1e.png";
-import carouselImg2 from "figma:asset/20663723c7bc2a96583b5f143ba044de2f095cc0.png";
-import carouselImg3 from "figma:asset/ebdc14cf7ba8356254ce27a5ad45c3444e6c9a82.png";
+import carouselImg1 from "@/assets/356536329955ba44021bb6b8f8cf572dc6ff6f1e.png";
+import carouselImg2 from "@/assets/20663723c7bc2a96583b5f143ba044de2f095cc0.png";
+import carouselImg3 from "@/assets/ebdc14cf7ba8356254ce27a5ad45c3444e6c9a82.png";
 
 // Animated Counter Component
 function AnimatedCounter({ end, suffix = "", duration = 2 }: { end: number; suffix?: string; duration?: number }) {

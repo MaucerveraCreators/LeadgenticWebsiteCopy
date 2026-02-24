@@ -1,5 +1,5 @@
 import { ArrowLeft } from "lucide-react";
-import logoImage from "figma:asset/effc1ab0651418bd5ac7971ac0325998b1bf0ee0.png";
+import logoImage from "@/assets/effc1ab0651418bd5ac7971ac0325998b1bf0ee0.png";
 
 interface TermsAndConditionsProps {
   onClose: () => void;

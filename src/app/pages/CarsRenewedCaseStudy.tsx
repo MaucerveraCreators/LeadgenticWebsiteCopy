@@ -4,9 +4,9 @@ import { useState, useRef, useEffect } from "react";
 import { Link } from "react-router";
 import type { LucideIcon } from "lucide-react";
 import { Footer } from "@/app/components/Footer";
-import windshieldSealantImage from "figma:asset/75295798f3865c7cff9afe241cd84067a32824d7.png";
-import crackedGlassImage from "figma:asset/20dedb972630ec3adf13ce58914d3deb3ff49ee8.png";
-import severeWindshieldDamageImage from "figma:asset/fe883127ce1cc451490ada9810fa30b7b6b0928e.png";
+import windshieldSealantImage from "@/assets/75295798f3865c7cff9afe241cd84067a32824d7.png";
+import crackedGlassImage from "@/assets/20dedb972630ec3adf13ce58914d3deb3ff49ee8.png";
+import severeWindshieldDamageImage from "@/assets/fe883127ce1cc451490ada9810fa30b7b6b0928e.png";
 
 // Animated Counter Component
 function AnimatedCounter({ end, suffix = "", prefix = "", duration = 2 }: { end: number; suffix?: string; prefix?: string; duration?: number }) {

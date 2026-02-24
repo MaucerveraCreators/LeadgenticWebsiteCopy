@@ -1,6 +1,6 @@
-import imgAScdZgGnmrmGqW4T21Webp from "figma:asset/bca110c689b62ce2450f0f266ab2936274b8df7e.png";
-import imgOverlayShadow from "figma:asset/e8e5e918f487199c628229f02d80fc1f6818adb3.png";
-import imgOverlayShadow1 from "figma:asset/6654679b68262cf888562b4a76ff492581e22516.png";
+import imgAScdZgGnmrmGqW4T21Webp from "@/assets/bca110c689b62ce2450f0f266ab2936274b8df7e.png";
+import imgOverlayShadow from "@/assets/e8e5e918f487199c628229f02d80fc1f6818adb3.png";
+import imgOverlayShadow1 from "@/assets/6654679b68262cf888562b4a76ff492581e22516.png";
 
 function AScdZgGnmrmGqW4T21Webp() {
   return (

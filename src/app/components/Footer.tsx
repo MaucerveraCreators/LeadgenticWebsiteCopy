@@ -1,7 +1,7 @@
 import { Facebook, Instagram, Linkedin, Mail, ArrowRight, Sparkles, ChevronDown } from "lucide-react";
 import { Link } from "react-router";
 import { useState } from "react";
-import logoImage from "figma:asset/effc1ab0651418bd5ac7971ac0325998b1bf0ee0.png";
+import logoImage from "@/assets/effc1ab0651418bd5ac7971ac0325998b1bf0ee0.png";
 import RocketIcon from "@/imports/Svg-42-816";
 
 export function Footer() {

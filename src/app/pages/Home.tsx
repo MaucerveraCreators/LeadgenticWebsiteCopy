@@ -23,36 +23,36 @@ import CreativityImages from "@/imports/Group22";
 import ConversionMetrics from "@/imports/Group25";
 import Group1000003482 from "@/imports/Group1000003482";
 import VectorLogo from "@/imports/Vector";
-import webDesignImage from "figma:asset/dbb23acea66e232bd5296527b4d9e7063e61cc0f.png";
-import seoGrowthImage from "figma:asset/a26157005ae8156913c551b153153a6bec89bb6e.png";
-import biofuseImage from "figma:asset/c1d647e3cb5fd851a3bbf585e8be19dfc8a95e88.png";
-import euroluxeImage from "figma:asset/5a580211104d2d24e3caabd785a1fd39d2bf9544.png";
-import houseOfLeonImage from "figma:asset/24733d33acce30def5bf4755cd17c2f6ebf86d7f.png";
-import joesOnJollyImage from "figma:asset/8e65e4dd8a0b2c992c7870013eff5adb4b44050e.png";
-import atmosphereImage from "figma:asset/debdbfc96fb84b110ca67da11efad301bb142f9b.png";
-import skyglossImage from "figma:asset/a8dd965fc22ca8056483abdae41aa525fd83ad8e.png";
+import webDesignImage from "@/assets/dbb23acea66e232bd5296527b4d9e7063e61cc0f.png";
+import seoGrowthImage from "@/assets/a26157005ae8156913c551b153153a6bec89bb6e.png";
+import biofuseImage from "@/assets/c1d647e3cb5fd851a3bbf585e8be19dfc8a95e88.png";
+import euroluxeImage from "@/assets/5a580211104d2d24e3caabd785a1fd39d2bf9544.png";
+import houseOfLeonImage from "@/assets/24733d33acce30def5bf4755cd17c2f6ebf86d7f.png";
+import joesOnJollyImage from "@/assets/8e65e4dd8a0b2c992c7870013eff5adb4b44050e.png";
+import atmosphereImage from "@/assets/debdbfc96fb84b110ca67da11efad301bb142f9b.png";
+import skyglossImage from "@/assets/a8dd965fc22ca8056483abdae41aa525fd83ad8e.png";
 // Business context carousel images - Leadgentic niches
-import carouselAutoStyling from "figma:asset/ebdeee8576c16f0399979c3672e0f9b27228d44f.png";
-import carouselIVTherapy from "figma:asset/a8cfc7e3dd8bc96450f72bf1df23d186b715c349.png";
-import carouselHomeServices from "figma:asset/7c838fe7b362fdd722f2293552d96b073e3f11cd.png";
-import carouselHospitality from "figma:asset/0390ad571f77e0d38f4b0ec9ceb1bd462a43549a.png";
-import carouselAutoGlass from "figma:asset/53e37b47c41c58e65ce79ae545ada26e891582fb.png";
-import carouselRoofing from "figma:asset/702cacd29cb636aaf7cb4ff9be868cc048a73008.png";
+import carouselAutoStyling from "@/assets/ebdeee8576c16f0399979c3672e0f9b27228d44f.png";
+import carouselIVTherapy from "@/assets/a8cfc7e3dd8bc96450f72bf1df23d186b715c349.png";
+import carouselHomeServices from "@/assets/7c838fe7b362fdd722f2293552d96b073e3f11cd.png";
+import carouselHospitality from "@/assets/0390ad571f77e0d38f4b0ec9ceb1bd462a43549a.png";
+import carouselAutoGlass from "@/assets/53e37b47c41c58e65ce79ae545ada26e891582fb.png";
+import carouselRoofing from "@/assets/702cacd29cb636aaf7cb4ff9be868cc048a73008.png";
 
 // Eye Kandy Customs logo for testimonial
-import eyeKandyLogo from "figma:asset/25bb29bd9fb31bb581cd9b07f964d232c1b2259f.png";
+import eyeKandyLogo from "@/assets/25bb29bd9fb31bb581cd9b07f964d232c1b2259f.png";
 
 // Zervas Facility Maintenance logo for testimonial
-import zervasLogo from "figma:asset/fca3671184b9edf7c0ee942c280ee43f6a1811c9.png";
+import zervasLogo from "@/assets/fca3671184b9edf7c0ee942c280ee43f6a1811c9.png";
 
 // Cars Renewed logo for testimonial
-import carsRenewedLogo from "figma:asset/01cbb32e79bfcdbe1d81f7a599458fc29e65f8e4.png";
+import carsRenewedLogo from "@/assets/01cbb32e79bfcdbe1d81f7a599458fc29e65f8e4.png";
 
 // Tristan Walker profile picture for testimonial
-import tristanWalkerPhoto from "figma:asset/33a2821e1906d54b2e6bf38172675ecb50437c6b.png";
+import tristanWalkerPhoto from "@/assets/33a2821e1906d54b2e6bf38172675ecb50437c6b.png";
 
 // Bryan Quintero company logo for testimonial
-import bryanQuinteroLogo from "figma:asset/464c4ee255532463483a6f17f7c5d20fd82ca485.png";
+import bryanQuinteroLogo from "@/assets/464c4ee255532463483a6f17f7c5d20fd82ca485.png";
 
 const columnOneImages = [
   carouselAutoStyling,
@@ -73,28 +73,28 @@ const columnTwoImages = [
 ];
 
 // Logos de clientes - Todos los 22 logos actualizados (Enero 2026)
-import clientLogo1 from "figma:asset/89aa29e6e9d544d4bfa32ea86058321d4a93eb3d.png";
-import clientLogo2 from "figma:asset/f3505b9f9f3412d9481aca4dbcbc3307565d2b57.png";
-import clientLogo3 from "figma:asset/7f984cf5bff6b7e9aafd800965f5929e61c54748.png";
-import clientLogo4 from "figma:asset/e27676cd71e1ff976ced6a06b60ffd80184a90f5.png";
-import clientLogo5 from "figma:asset/39c4a0cff154388354d8d5e78b4814d1c87c2992.png";
-import clientLogo6 from "figma:asset/a5c4afd2deee268176b68d761d3c78eb220ec438.png";
-import clientLogo7 from "figma:asset/a3a542523bf09a2d10330237e63fed92cf521fbe.png";
-import clientLogo8 from "figma:asset/868cad418e919997cc3ebf260900e3ea9bd2bf52.png";
-import clientLogo9 from "figma:asset/6fc36c043e5dd80e4b772421955c5fa66f1419fb.png";
-import clientLogo10 from "figma:asset/eb8fef314a184b778d37de163b71371623b03f1c.png";
-import clientLogo11 from "figma:asset/e0f58557838bd844e6e3749cea05af2d51686234.png";
-import clientLogo12 from "figma:asset/ffca5f1c1d45d947684c49abc22b83140b9770fa.png";
-import clientLogo13 from "figma:asset/07af089f86f66bcf52fa5f67f29b095a3918169e.png";
-import clientLogo14 from "figma:asset/876f0ccbf5a7dc0806a660ef8594b0ec52d8d387.png";
-import clientLogo15 from "figma:asset/cf4e924286a390fb5b585b65841f6af957ffa148.png";
-import clientLogo16 from "figma:asset/7a378a87c43ea0413620c80e3b578cb94c00876d.png";
-import clientLogo17 from "figma:asset/246b79885069349c0540d4f0c8d61e1d5a12d027.png";
-import clientLogo18 from "figma:asset/67c1dfa729d967f6528f87916d7569fc7e14877a.png";
-import clientLogo19 from "figma:asset/909e1626ea7a8025f630df22aa04e4e587be8482.png";
-import clientLogo20 from "figma:asset/3abacc528baf461c063a67a4eabd2f75b055ee0b.png";
-import clientLogo21 from "figma:asset/b9234ce402f6d920f0b13b6b897245efbcca3681.png";
-import clientLogo22 from "figma:asset/3b9aef52d7bf8972d59c0f6ffb7689381c61b0a2.png";
+import clientLogo1 from "@/assets/89aa29e6e9d544d4bfa32ea86058321d4a93eb3d.png";
+import clientLogo2 from "@/assets/f3505b9f9f3412d9481aca4dbcbc3307565d2b57.png";
+import clientLogo3 from "@/assets/7f984cf5bff6b7e9aafd800965f5929e61c54748.png";
+import clientLogo4 from "@/assets/e27676cd71e1ff976ced6a06b60ffd80184a90f5.png";
+import clientLogo5 from "@/assets/39c4a0cff154388354d8d5e78b4814d1c87c2992.png";
+import clientLogo6 from "@/assets/a5c4afd2deee268176b68d761d3c78eb220ec438.png";
+import clientLogo7 from "@/assets/a3a542523bf09a2d10330237e63fed92cf521fbe.png";
+import clientLogo8 from "@/assets/868cad418e919997cc3ebf260900e3ea9bd2bf52.png";
+import clientLogo9 from "@/assets/6fc36c043e5dd80e4b772421955c5fa66f1419fb.png";
+import clientLogo10 from "@/assets/eb8fef314a184b778d37de163b71371623b03f1c.png";
+import clientLogo11 from "@/assets/e0f58557838bd844e6e3749cea05af2d51686234.png";
+import clientLogo12 from "@/assets/ffca5f1c1d45d947684c49abc22b83140b9770fa.png";
+import clientLogo13 from "@/assets/07af089f86f66bcf52fa5f67f29b095a3918169e.png";
+import clientLogo14 from "@/assets/876f0ccbf5a7dc0806a660ef8594b0ec52d8d387.png";
+import clientLogo15 from "@/assets/cf4e924286a390fb5b585b65841f6af957ffa148.png";
+import clientLogo16 from "@/assets/7a378a87c43ea0413620c80e3b578cb94c00876d.png";
+import clientLogo17 from "@/assets/246b79885069349c0540d4f0c8d61e1d5a12d027.png";
+import clientLogo18 from "@/assets/67c1dfa729d967f6528f87916d7569fc7e14877a.png";
+import clientLogo19 from "@/assets/909e1626ea7a8025f630df22aa04e4e587be8482.png";
+import clientLogo20 from "@/assets/3abacc528baf461c063a67a4eabd2f75b055ee0b.png";
+import clientLogo21 from "@/assets/b9234ce402f6d920f0b13b6b897245efbcca3681.png";
+import clientLogo22 from "@/assets/3b9aef52d7bf8972d59c0f6ffb7689381c61b0a2.png";
 
 // Updated client logos - January 2026
 const clientLogos = [

@@ -1,8 +1,8 @@
-import imgUserPhoto from "figma:asset/3f997ac88310448974cf239a72bad8ef817f985f.png";
-import imgUserPhoto1 from "figma:asset/25d1a77020008b9e3f08babd1f67f01cdb8f89d6.png";
-import imgUserPhoto2 from "figma:asset/644f99339461ceed3bc6e6e860d04d71b422d3af.png";
-import imgUserPhoto3 from "figma:asset/2824bbfc3a0e4e7f8f0343924eeffeeace5d9c62.png";
-import imgTrustpilotLogo20221 from "figma:asset/40e423960d4ad51ec046cb5699d210ae85067a5c.png";
+import imgUserPhoto from "@/assets/3f997ac88310448974cf239a72bad8ef817f985f.png";
+import imgUserPhoto1 from "@/assets/25d1a77020008b9e3f08babd1f67f01cdb8f89d6.png";
+import imgUserPhoto2 from "@/assets/644f99339461ceed3bc6e6e860d04d71b422d3af.png";
+import imgUserPhoto3 from "@/assets/2824bbfc3a0e4e7f8f0343924eeffeeace5d9c62.png";
+import imgTrustpilotLogo20221 from "@/assets/40e423960d4ad51ec046cb5699d210ae85067a5c.png";
 
 function UserPhoto5({ children }: React.PropsWithChildren<{}>) {
   return (

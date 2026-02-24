@@ -6,15 +6,15 @@ import { Footer } from "@/app/components/Footer";
 import { Link } from "react-router";
 
 // Import project images from Home
-import technologyImage from "figma:asset/fceb1d87fb84de9b9fca68e3a59c9617cff46ed0.png";
-import fansmetricImage from "figma:asset/c3ce9dada37d2fc3582de735ff392b76cb284bda.png";
-import biofuseImage from "figma:asset/c1d647e3cb5fd851a3bbf585e8be19dfc8a95e88.png";
-import liveOutdoorImage from "figma:asset/eb92fb9ff25445ce1b792c049bd6f3c367ab24d6.png";
-import houseOfLeonImage from "figma:asset/24733d33acce30def5bf4755cd17c2f6ebf86d7f.png";
-import joesOnJollyImage from "figma:asset/8e65e4dd8a0b2c992c7870013eff5adb4b44050e.png";
-import atmosphereImage from "figma:asset/debdbfc96fb84b110ca67da11efad301bb142f9b.png";
-import euroluxeWebImage from "figma:asset/a0b2237f68c7ea9fdd344f1bd7c6db4743617b3a.png";
-import skyglossImage from "figma:asset/a8dd965fc22ca8056483abdae41aa525fd83ad8e.png";
+import technologyImage from "@/assets/fceb1d87fb84de9b9fca68e3a59c9617cff46ed0.png";
+import fansmetricImage from "@/assets/c3ce9dada37d2fc3582de735ff392b76cb284bda.png";
+import biofuseImage from "@/assets/c1d647e3cb5fd851a3bbf585e8be19dfc8a95e88.png";
+import liveOutdoorImage from "@/assets/eb92fb9ff25445ce1b792c049bd6f3c367ab24d6.png";
+import houseOfLeonImage from "@/assets/24733d33acce30def5bf4755cd17c2f6ebf86d7f.png";
+import joesOnJollyImage from "@/assets/8e65e4dd8a0b2c992c7870013eff5adb4b44050e.png";
+import atmosphereImage from "@/assets/debdbfc96fb84b110ca67da11efad301bb142f9b.png";
+import euroluxeWebImage from "@/assets/a0b2237f68c7ea9fdd344f1bd7c6db4743617b3a.png";
+import skyglossImage from "@/assets/a8dd965fc22ca8056483abdae41aa525fd83ad8e.png";
 
 // Benefit Card for Carousel
 function BenefitCard({ icon: Icon, title, description }: { icon: LucideIcon; title: string; description: string }) {

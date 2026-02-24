@@ -4,8 +4,8 @@ import { useState, useRef, useEffect } from "react";
 import { Link } from "react-router";
 import type { LucideIcon } from "lucide-react";
 import { Footer } from "@/app/components/Footer";
-import autoClinicShopImage from "figma:asset/ae555966b577e08907039e3e8d27714677d15942.png";
-import mechanicWorkingImage from "figma:asset/1b748fedf74ce92746a7e4bede2bb5090cc3b954.png";
+import autoClinicShopImage from "@/assets/ae555966b577e08907039e3e8d27714677d15942.png";
+import mechanicWorkingImage from "@/assets/1b748fedf74ce92746a7e4bede2bb5090cc3b954.png";
 
 // Animated Counter Component
 function AnimatedCounter({ end, suffix = "", prefix = "", duration = 2 }: { end: number; suffix?: string; prefix?: string; duration?: number }) {

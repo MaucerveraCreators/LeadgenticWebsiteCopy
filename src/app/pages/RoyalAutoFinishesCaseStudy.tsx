@@ -6,8 +6,8 @@ import type { LucideIcon } from "lucide-react";
 import { Footer } from "@/app/components/Footer";
 
 // Import Royal Auto Finishes images
-import royalAutoImg1 from "figma:asset/a1ab0e9c2e1fedef0b96a8f0e97fef16aa380031.png";
-import royalAutoImg2 from "figma:asset/fa24408136164679ae82ccdc7582492a204b36d4.png";
+import royalAutoImg1 from "@/assets/a1ab0e9c2e1fedef0b96a8f0e97fef16aa380031.png";
+import royalAutoImg2 from "@/assets/fa24408136164679ae82ccdc7582492a204b36d4.png";
 
 // Royal Auto Finishes carousel images
 const royalAutoImages = [

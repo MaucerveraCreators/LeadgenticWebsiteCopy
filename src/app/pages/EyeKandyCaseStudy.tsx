@@ -29,9 +29,9 @@ import { Footer } from "@/app/components/Footer";
 import { ImageWithFallback } from "@/app/components/figma/ImageWithFallback";
 
 // Eye Kandy Customs carousel images - Client provided images
-import carouselImg1 from "figma:asset/6e985a6849bebca9cd2a7dda0238932bfe6e1362.png";
-import carouselImg2 from "figma:asset/d67bf4b2160496eb6bf1bfd3b2b07e6d53778bcc.png";
-import carouselImg3 from "figma:asset/e95a124318545f7badc0f8277e07f384b5b18c9c.png";
+import carouselImg1 from "@/assets/6e985a6849bebca9cd2a7dda0238932bfe6e1362.png";
+import carouselImg2 from "@/assets/d67bf4b2160496eb6bf1bfd3b2b07e6d53778bcc.png";
+import carouselImg3 from "@/assets/e95a124318545f7badc0f8277e07f384b5b18c9c.png";
 
 // Animated Counter Component
 function AnimatedCounter({ end, suffix = "", duration = 2 }: { end: number; suffix?: string; duration?: number }) {

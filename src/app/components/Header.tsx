@@ -6,7 +6,7 @@ import { NichesMegaMenu } from "@/app/components/NichesMegaMenu";
 import { CasesMegaMenu } from "@/app/components/CasesMegaMenu";
 import { MobileMenu } from "@/app/components/MobileMenu";
 import { CustomIcon } from "@/app/components/CustomIcon";
-import logoImage from "figma:asset/effc1ab0651418bd5ac7971ac0325998b1bf0ee0.png";
+import logoImage from "@/assets/effc1ab0651418bd5ac7971ac0325998b1bf0ee0.png";
 
 export function Header() {
   const [isScrolled, setIsScrolled] = useState(false);

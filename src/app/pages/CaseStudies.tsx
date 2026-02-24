@@ -5,18 +5,18 @@ import { Link } from "react-router";
 import { Footer } from "@/app/components/Footer";
 
 // Import case study images
-import biofuseImage from "figma:asset/c1d647e3cb5fd851a3bbf585e8be19dfc8a95e88.png";
-import euroluxeImage from "figma:asset/5a580211104d2d24e3caabd785a1fd39d2bf9544.png";
-import carsRenewedImage from "figma:asset/53e37b47c41c58e65ce79ae545ada26e891582fb.png";
-import autoClinicImage from "figma:asset/1b748fedf74ce92746a7e4bede2bb5090cc3b954.png";
-import dmeTuningImage from "figma:asset/a6eed85f2d64631e44daf2a075831ca56306b8db.png";
-import eyeKandyImage from "figma:asset/e95a124318545f7badc0f8277e07f384b5b18c9c.png";
-import happyCasaImage from "figma:asset/356536329955ba44021bb6b8f8cf572dc6ff6f1e.png";
-import honoluluExoticsImage from "figma:asset/c5aa9865605d7d09a4ce1c6d505d1503589684cb.png";
-import naplesCeramicImage from "figma:asset/e862cb9cb072decc7731eb89b44c543a2f613d24.png";
-import nunezCustomsImage from "figma:asset/af5cd7bc0b7b6702ce66dde7542acf42695e3fa9.png";
-import phoneAnimalImage from "figma:asset/ebdc14cf7ba8356254ce27a5ad45c3444e6c9a82.png";
-import royalAutoFinishesImage from "figma:asset/a2328589f8bfd0ea672022a0a3d448fa6b043204.png";
+import biofuseImage from "@/assets/c1d647e3cb5fd851a3bbf585e8be19dfc8a95e88.png";
+import euroluxeImage from "@/assets/5a580211104d2d24e3caabd785a1fd39d2bf9544.png";
+import carsRenewedImage from "@/assets/53e37b47c41c58e65ce79ae545ada26e891582fb.png";
+import autoClinicImage from "@/assets/1b748fedf74ce92746a7e4bede2bb5090cc3b954.png";
+import dmeTuningImage from "@/assets/a6eed85f2d64631e44daf2a075831ca56306b8db.png";
+import eyeKandyImage from "@/assets/e95a124318545f7badc0f8277e07f384b5b18c9c.png";
+import happyCasaImage from "@/assets/356536329955ba44021bb6b8f8cf572dc6ff6f1e.png";
+import honoluluExoticsImage from "@/assets/c5aa9865605d7d09a4ce1c6d505d1503589684cb.png";
+import naplesCeramicImage from "@/assets/e862cb9cb072decc7731eb89b44c543a2f613d24.png";
+import nunezCustomsImage from "@/assets/af5cd7bc0b7b6702ce66dde7542acf42695e3fa9.png";
+import phoneAnimalImage from "@/assets/ebdc14cf7ba8356254ce27a5ad45c3444e6c9a82.png";
+import royalAutoFinishesImage from "@/assets/a2328589f8bfd0ea672022a0a3d448fa6b043204.png";
 
 interface CaseStudy {
   id: string;

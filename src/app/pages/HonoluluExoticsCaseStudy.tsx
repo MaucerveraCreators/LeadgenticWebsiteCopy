@@ -6,15 +6,15 @@ import type { LucideIcon } from "lucide-react";
 import { Footer } from "@/app/components/Footer";
 
 // Import carousel images
-import carouselImg1 from "figma:asset/c3566a679935a649f9063f57c9f757741f6f117a.png";
-import carouselImg2 from "figma:asset/eb5ce9244648c8abe9dcec2f965c0f5a96d193f5.png";
-import carouselImg3 from "figma:asset/c5aa9865605d7d09a4ce1c6d505d1503589684cb.png";
-import carouselImg4 from "figma:asset/1769a11102e9e0368ff6c620d23018fbfd6b8e20.png";
-import carouselImg5 from "figma:asset/3d722390414be6311e68a987dab6919b3e57db05.png";
-import carouselImg6 from "figma:asset/390b348a1a631a68df6c0ed9a8a7339ec016fa16.png";
-import carouselImg7 from "figma:asset/1bde31db5abece3123a32a4ae475c3009fc53d05.png";
-import carouselImg8 from "figma:asset/96a3889ff6c61caaf85a49d4dd2085a1b854b27a.png";
-import carouselImg9 from "figma:asset/5a855bdef8119b426356d29c844269e06b5fe4ff.png";
+import carouselImg1 from "@/assets/c3566a679935a649f9063f57c9f757741f6f117a.png";
+import carouselImg2 from "@/assets/eb5ce9244648c8abe9dcec2f965c0f5a96d193f5.png";
+import carouselImg3 from "@/assets/c5aa9865605d7d09a4ce1c6d505d1503589684cb.png";
+import carouselImg4 from "@/assets/1769a11102e9e0368ff6c620d23018fbfd6b8e20.png";
+import carouselImg5 from "@/assets/3d722390414be6311e68a987dab6919b3e57db05.png";
+import carouselImg6 from "@/assets/390b348a1a631a68df6c0ed9a8a7339ec016fa16.png";
+import carouselImg7 from "@/assets/1bde31db5abece3123a32a4ae475c3009fc53d05.png";
+import carouselImg8 from "@/assets/96a3889ff6c61caaf85a49d4dd2085a1b854b27a.png";
+import carouselImg9 from "@/assets/5a855bdef8119b426356d29c844269e06b5fe4ff.png";
 
 // Animated Counter Component
 function AnimatedCounter({ end, suffix = "", duration = 2 }: { end: number; suffix?: string; duration?: number }) {

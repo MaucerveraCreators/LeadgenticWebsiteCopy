@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { X, ChevronDown } from "lucide-react";
 import { Link } from "react-router";
-import logoImage from "figma:asset/effc1ab0651418bd5ac7971ac0325998b1bf0ee0.png";
+import logoImage from "@/assets/effc1ab0651418bd5ac7971ac0325998b1bf0ee0.png";
 
 interface MobileMenuProps {
   isOpen: boolean;
