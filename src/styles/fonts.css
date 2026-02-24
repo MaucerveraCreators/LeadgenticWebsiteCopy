@@ -1,0 +1,45 @@
+/* Importar fuentes desde Google Fonts para mejor compatibilidad cross-browser */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+/* Maxima Nouva Regular - Configuración optimizada para compatibilidad cross-browser */
+/* Con font-display: swap para evitar FOIT (Flash of Invisible Text) en mobile */
+@font-face {
+  font-family: 'Maxima Nouva';
+  src: url('https://fonts.cdnfonts.com/s/103662/MaximaNouva-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  /* Fallback para navegadores que no soportan woff */
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Maxima Nouva';
+  src: url('https://fonts.cdnfonts.com/s/103662/MaximaNouva-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Maxima Nouva';
+  src: url('https://fonts.cdnfonts.com/s/103662/MaximaNouva-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* Fallback system robusto: si Maxima Nouva no carga, usa Inter de Google Fonts */
+/* Inter tiene soporte universal en todos los navegadores modernos */
+/* System fonts aseguran que siempre haya una fuente disponible, incluso sin conexión */
+body {
+  font-family: 'Maxima Nouva', 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  /* Optimizaciones para mobile */
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+}
